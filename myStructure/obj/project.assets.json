@@ -105,11 +105,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Muhmmad Gamal\\source\\repos\\myStructure\\myStructure\\myStructure.csproj",
+      "projectUniqueName": "C:\\Users\\Muhmmad Gamal\\Downloads\\MyGitMyStructure\\MyStructure\\myStructure\\myStructure.csproj",
       "projectName": "myStructure",
-      "projectPath": "C:\\Users\\Muhmmad Gamal\\source\\repos\\myStructure\\myStructure\\myStructure.csproj",
+      "projectPath": "C:\\Users\\Muhmmad Gamal\\Downloads\\MyGitMyStructure\\MyStructure\\myStructure\\myStructure.csproj",
       "packagesPath": "C:\\Users\\Muhmmad Gamal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Muhmmad Gamal\\source\\repos\\myStructure\\myStructure\\obj\\",
+      "outputPath": "C:\\Users\\Muhmmad Gamal\\Downloads\\MyGitMyStructure\\MyStructure\\myStructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -170,7 +170,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
