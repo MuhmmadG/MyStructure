@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Muhmmad Gamal\\source\\repos\\myStructure\\",
+  "WorkspaceRootPath": "C:\\Users\\Muhmmad Gamal\\Downloads\\MyGitMyStructure\\MyStructure\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C40DDA5-C716-B160-3645-D35FDFEBF401}|myStructure\\myStructure.csproj|c:\\users\\muhmmad gamal\\source\\repos\\mystructure\\mystructure\\mylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C40DDA5-C716-B160-3645-D35FDFEBF401}|myStructure\\myStructure.csproj|solutionrelative:mystructure\\mylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C40DDA5-C716-B160-3645-D35FDFEBF401}|myStructure\\myStructure.csproj|c:\\users\\muhmmad gamal\\source\\repos\\mystructure\\mystructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C40DDA5-C716-B160-3645-D35FDFEBF401}|myStructure\\myStructure.csproj|c:\\users\\muhmmad gamal\\downloads\\mygitmystructure\\mystructure\\mystructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C40DDA5-C716-B160-3645-D35FDFEBF401}|myStructure\\myStructure.csproj|solutionrelative:mystructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C40DDA5-C716-B160-3645-D35FDFEBF401}|myStructure\\myStructure.csproj|c:\\users\\muhmmad gamal\\source\\repos\\mystructure\\mystructure\\interfaces\\iequalitycomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C40DDA5-C716-B160-3645-D35FDFEBF401}|myStructure\\myStructure.csproj|solutionrelative:mystructure\\interfaces\\iequalitycomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C40DDA5-C716-B160-3645-D35FDFEBF401}|myStructure\\myStructure.csproj|c:\\users\\muhmmad gamal\\downloads\\mygitmystructure\\mystructure\\mystructure\\test\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C40DDA5-C716-B160-3645-D35FDFEBF401}|myStructure\\myStructure.csproj|solutionrelative:mystructure\\test\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C40DDA5-C716-B160-3645-D35FDFEBF401}|myStructure\\myStructure.csproj|c:\\users\\muhmmad gamal\\source\\repos\\mystructure\\mystructure\\interfaces\\icomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C40DDA5-C716-B160-3645-D35FDFEBF401}|myStructure\\myStructure.csproj|c:\\users\\muhmmad gamal\\downloads\\mygitmystructure\\mystructure\\mystructure\\mylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C40DDA5-C716-B160-3645-D35FDFEBF401}|myStructure\\myStructure.csproj|solutionrelative:mystructure\\mylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C40DDA5-C716-B160-3645-D35FDFEBF401}|myStructure\\myStructure.csproj|c:\\users\\muhmmad gamal\\downloads\\mygitmystructure\\mystructure\\mystructure\\interfaces\\icomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C40DDA5-C716-B160-3645-D35FDFEBF401}|myStructure\\myStructure.csproj|solutionrelative:mystructure\\interfaces\\icomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C40DDA5-C716-B160-3645-D35FDFEBF401}|myStructure\\myStructure.csproj|c:\\users\\muhmmad gamal\\downloads\\mygitmystructure\\mystructure\\mystructure\\interfaces\\iequalitycomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C40DDA5-C716-B160-3645-D35FDFEBF401}|myStructure\\myStructure.csproj|solutionrelative:mystructure\\interfaces\\iequalitycomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 280,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,39 +62,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Muhmmad Gamal\\Downloads\\MyGitMyStructure\\MyStructure\\myStructure\\Test\\Class1.cs",
+              "RelativeDocumentMoniker": "myStructure\\Test\\Class1.cs",
+              "ToolTip": "C:\\Users\\Muhmmad Gamal\\Downloads\\MyGitMyStructure\\MyStructure\\myStructure\\Test\\Class1.cs",
+              "RelativeToolTip": "myStructure\\Test\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T13:17:50.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "IEqualityComparer.cs",
-              "DocumentMoniker": "C:\\Users\\Muhmmad Gamal\\source\\repos\\myStructure\\myStructure\\interfaces\\IEqualityComparer.cs",
+              "DocumentMoniker": "C:\\Users\\Muhmmad Gamal\\Downloads\\MyGitMyStructure\\MyStructure\\myStructure\\interfaces\\IEqualityComparer.cs",
               "RelativeDocumentMoniker": "myStructure\\interfaces\\IEqualityComparer.cs",
-              "ToolTip": "C:\\Users\\Muhmmad Gamal\\source\\repos\\myStructure\\myStructure\\interfaces\\IEqualityComparer.cs",
+              "ToolTip": "C:\\Users\\Muhmmad Gamal\\Downloads\\MyGitMyStructure\\MyStructure\\myStructure\\interfaces\\IEqualityComparer.cs",
               "RelativeToolTip": "myStructure\\interfaces\\IEqualityComparer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T13:52:57.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T13:52:57.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyList.cs",
+              "DocumentMoniker": "C:\\Users\\Muhmmad Gamal\\Downloads\\MyGitMyStructure\\MyStructure\\myStructure\\MyList.cs",
+              "RelativeDocumentMoniker": "myStructure\\MyList.cs",
+              "ToolTip": "C:\\Users\\Muhmmad Gamal\\Downloads\\MyGitMyStructure\\MyStructure\\myStructure\\MyList.cs",
+              "RelativeToolTip": "myStructure\\MyList.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAIAwwH0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T11:02:26.102Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MyList.cs",
-              "DocumentMoniker": "C:\\Users\\Muhmmad Gamal\\source\\repos\\myStructure\\myStructure\\MyList.cs",
-              "RelativeDocumentMoniker": "myStructure\\MyList.cs",
-              "ToolTip": "C:\\Users\\Muhmmad Gamal\\source\\repos\\myStructure\\myStructure\\MyList.cs*",
-              "RelativeToolTip": "myStructure\\MyList.cs*",
-              "ViewState": "AgIAAGsAAAAAAAAAAIAwwHMAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-01T11:02:26.102Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Muhmmad Gamal\\source\\repos\\myStructure\\myStructure\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Muhmmad Gamal\\Downloads\\MyGitMyStructure\\MyStructure\\myStructure\\Program.cs",
               "RelativeDocumentMoniker": "myStructure\\Program.cs",
-              "ToolTip": "C:\\Users\\Muhmmad Gamal\\source\\repos\\myStructure\\myStructure\\Program.cs",
+              "ToolTip": "C:\\Users\\Muhmmad Gamal\\Downloads\\MyGitMyStructure\\MyStructure\\myStructure\\Program.cs",
               "RelativeToolTip": "myStructure\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAjwBAAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAMwBAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-01T11:01:59.236Z",
               "EditorCaption": ""
@@ -99,14 +114,13 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "IComparer.cs",
-              "DocumentMoniker": "C:\\Users\\Muhmmad Gamal\\source\\repos\\myStructure\\myStructure\\interfaces\\IComparer.cs",
+              "DocumentMoniker": "C:\\Users\\Muhmmad Gamal\\Downloads\\MyGitMyStructure\\MyStructure\\myStructure\\interfaces\\IComparer.cs",
               "RelativeDocumentMoniker": "myStructure\\interfaces\\IComparer.cs",
-              "ToolTip": "C:\\Users\\Muhmmad Gamal\\source\\repos\\myStructure\\myStructure\\interfaces\\IComparer.cs",
+              "ToolTip": "C:\\Users\\Muhmmad Gamal\\Downloads\\MyGitMyStructure\\MyStructure\\myStructure\\interfaces\\IComparer.cs",
               "RelativeToolTip": "myStructure\\interfaces\\IComparer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T13:00:39.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T13:00:39.312Z"
             }
           ]
         },
